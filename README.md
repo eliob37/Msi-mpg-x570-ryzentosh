@@ -1,4 +1,4 @@
-# Msi-mpg-x570- ryzen 9 3900x-ryzentosh
+# Msi-mpg-x570- ryzen9-3900x-ryzentosh
 OpenCore 0.5.9 Files for AMD Board : MSI mpg X570 and ryzen 9 3900x.
 BIOS-Version: 7C37vA84 (Beta version) | SMBIOS iMacPro1,1
 ---BIOS SETTING---
