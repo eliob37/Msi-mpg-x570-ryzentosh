@@ -63,3 +63,11 @@ BENCHMARK
 on  GEECKBENCH 5-SINGLE CORE=1335 MULTICORE=12367 
 
 ON CINEBENCH=7491.
+
+Update # 1: replace RX 580 for rx 5700xt saphire nitro plus.
+
+Mandatory:
+in config.plist add gdpmod = pikera in boot-args.
+
+-gpu bios in option 2.can confirm no fan noise and good temperatures.(33 to 37without charge)
+-in bios pci generation in auto.
