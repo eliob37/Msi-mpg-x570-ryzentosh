@@ -71,3 +71,7 @@ in config.plist add gdpmod = pikera in boot-args.
 
 -gpu bios in option 2.can confirm no fan noise and good temperatures.(33 to 37without charge)
 -in bios pci generation in auto.
+
+UPDATE#2
+Update to catalina 15.6 easy. 
+Adobe apps is crash.
