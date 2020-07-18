@@ -67,11 +67,13 @@ ON CINEBENCH=7491.
 Update # 1: replace RX 580 for rx 5700xt saphire nitro plus.
 
 Mandatory:
-in config.plist add gdpmod = pikera in boot-args.
+in config.plist add agdpmod=pikera in boot-args.
 
 -gpu bios in option 2.can confirm no fan noise and good temperatures.(33 to 37without charge)
 -in bios pci generation in auto.
 
 UPDATE#2
-Update to catalina 15.6 easy. 
+
+Update to catalina 15.6 easy.
+
 Adobe apps is crash.
